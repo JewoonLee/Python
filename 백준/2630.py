@@ -60,3 +60,5 @@ boxcount(nlist,0,n-1,0,n-1,n)
 
 print(wihte)
 print(bluebox)
+
+print("changed")
